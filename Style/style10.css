@@ -1,0 +1,15 @@
+body{
+  background-image:linear-gradient(to top right,red,white);
+  background-repeat: no-repeat;
+  margin:402px;
+}
+ .satu{
+   width:900px;
+   height:600px;
+   background-image: radial-gradient(ellipse at bottom, white,blue);
+ }
+.dua{
+  width:900px;
+  height:200px;
+  background-image: linear-gradient(to right, white,blue,white) ; 
+}

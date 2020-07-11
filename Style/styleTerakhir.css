@@ -1,0 +1,26 @@
+nav {
+    background-color: #ff9900;
+    display: block;
+    height: 75px;
+}
+
+
+li a:hover {
+    background-color: #df8a0ce3;
+}
+
+img {
+    margin: 5px 0px 15px 50px;
+    width: 470px;
+    height: 290px;
+}
+
+#now {
+    margin-left: 700px;
+    border: solid;
+    background: #058348;
+}
+
+#gudeg {
+    margin: 5px 0px 15px 900px;
+}

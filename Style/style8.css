@@ -1,0 +1,23 @@
+body{
+  background-image: url(../stupa_borobudur.jpg);
+  background-size: cover;
+}
+.zero{
+  background-color:white;
+  overflow:scroll;
+  background-image: url(../avocado.jpg);
+  background-repeat:repeat-y;
+  width:800px; height:300px;
+}
+
+.satu{
+  color:blue;
+  text-align: center;
+}
+.dua{
+  color:green;
+}
+.tiga{
+  color:red;
+  text-align: center;
+}

@@ -1,0 +1,14 @@
+.p_pertama{
+  background-color: #806128;
+}
+.p_kedua{
+  background-color:blue;
+}
+.p_tiga{
+  font-family: monospace;
+  font-size: 20px;
+}
+.p_empat{
+  background-color: grey ;
+  font-weight: bold ;
+}

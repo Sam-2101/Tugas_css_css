@@ -1,0 +1,21 @@
+.div_menu{
+  background-color: black;
+}
+.menu{
+  color:white;
+}
+.slider-div{
+  display:block;
+  margin-left: 80px;
+  margin-right: 50px;
+}
+.footer{
+  background-color: black;
+  color:white;
+  text-align: center;
+}
+.footer-alamat{
+  background-color: black;
+  color:white;
+  text-align: center;
+}

@@ -1,0 +1,90 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.box1 {
+    width: 100px;
+    height: 30px;
+    background-color: #03fc84;
+    text-align: center;
+    padding-top: 10px;
+
+}
+
+.box2 {
+    width: 100px;
+    height: 30px;
+    background-color: #00a656;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.box3 {
+    width: 100px;
+    height: 30px;
+    background-color: #026beb;
+    text-align: center;
+    padding-top: 10px;
+
+}
+
+.box4 {
+    width: 100px;
+    height: 30px;
+    background-color: #4816c7;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.box5 {
+    width: 100px;
+    height: 30px;
+    background-color: #021078;
+    text-align: center;
+    padding-top: 10px;
+
+}
+
+.box6 {
+    width: 100px;
+    height: 30px;
+    background-color: #edbf04;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.box7 {
+    width: 100px;
+    height: 30px;
+    background-color: #f08102;
+    text-align: center;
+    padding-top: 10px;
+
+}
+
+.box8 {
+    width: 100px;
+    height: 30px;
+    background-color: #f50d05;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.box9 {
+    width: 100px;
+    height: 30px;
+    background-color: #acabb3;
+    text-align: center;
+    padding-top: 10px;
+
+}
+
+.box10 {
+    width: 100px;
+    height: 30px;
+    background-color: #515154;
+    text-align: center;
+    padding-top: 10px;
+}

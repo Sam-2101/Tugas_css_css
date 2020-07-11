@@ -1,0 +1,13 @@
+.a{
+  z-index:2;
+}
+
+.b{
+  z-index:1;
+  float:right;
+  text-align:right;
+  top:-800px;
+  position:relative;
+  background-color: white;
+  width:700px;
+}
